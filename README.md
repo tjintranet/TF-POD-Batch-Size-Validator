@@ -1,1 +1,1 @@
-# tjintranet-TJ-POD-Batch-Size-Validator
+# TJ-POD-Batch-Size-Validator
